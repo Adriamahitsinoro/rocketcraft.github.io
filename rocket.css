@@ -1,10 +1,41 @@
 body{
-	background-image: url(b3.png);
+	background-image: url(grafiki/b3.png);
 	background-attachment: fixed;
 	background-size: cover;
 }
 #body{
 	margin: auto;
 	width: 70%;
-	height: 2500px;
+	height: 2200px;
+}
+div{
+	text-align: center;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 27px;
+}
+h2{
+	font-family: 'Hanalei Fill', cursive;
+	font-size: 40px;
+	color: darkcyan;
+}
+h3{
+	font-family: 'Indie Flower', cursive;
+	font-size: 35px;
+	color: red;
+}
+#inf{
+	color: pink;
+}
+div.cords div{
+	width: 33%;
+	display: inline;
+	color: orange;
+
+}
+.fl{
+	float: left;
+}
+.fll{
+	border-right: 2px black solid;
+	float: left;
 }
