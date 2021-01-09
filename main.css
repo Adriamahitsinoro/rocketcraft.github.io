@@ -39,7 +39,7 @@ div.cords div{
 	border-right: 2px black solid;
 	float: left;
 }
-#feet:hover{
+div#feet:hover{
 	color: #FA387B;
 	background-color: white;
 }
