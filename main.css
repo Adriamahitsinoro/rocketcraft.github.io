@@ -41,6 +41,7 @@ div.cords div{
 }
 div#feet{
 	font-size: 20px;
+	font-family: 'Indie Flower', cursive;
 }
 div#feet:hover{
 	color: #FA387B;
